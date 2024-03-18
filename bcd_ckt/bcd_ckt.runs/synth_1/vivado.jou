@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Mar 18 23:15:01 2024
+# Process ID: 23312
+# Current directory: C:/Users/Abhik/Documents/my_vivado_project/bcd_ckt/bcd_ckt.runs/synth_1
+# Command line: vivado.exe -log bcd_ckt.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bcd_ckt.tcl
+# Log file: C:/Users/Abhik/Documents/my_vivado_project/bcd_ckt/bcd_ckt.runs/synth_1/bcd_ckt.vds
+# Journal file: C:/Users/Abhik/Documents/my_vivado_project/bcd_ckt/bcd_ckt.runs/synth_1\vivado.jou
+# Running On: abhi, OS: Windows, CPU Frequency: 3110 MHz, CPU Physical cores: 12, Host memory: 16782 MB
+#-----------------------------------------------------------
+source bcd_ckt.tcl -notrace
